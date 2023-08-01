@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**igoorzin/igoorzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Igor Felipe da Silva Alvarenga
 
-Here are some ideas to get you started:
+- Estou estudando na alura
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato comigo 
+
+igor.alvarenga@escola.pr.gov.br
+
+@igor
+
+![](https://media.tenor.com/tP7v1dUc2y0AAAAM/ronaldinho-ronaldinho-gaucho.gif)https://media.tenor.com/tP7v1dUc2y0AAAAM/ronaldinho-ronaldinho-gaucho.gif
