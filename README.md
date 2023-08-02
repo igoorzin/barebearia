@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil 🖤
+### Boas picas na minha bundinha 🖤
 
 meu nome é Igor Felipe da Silva Alvarenga
 
