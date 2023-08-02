@@ -6,7 +6,7 @@ meu nome é Igor Felipe da Silva Alvarenga
 - Estou me desenvolvendo na linguagem javaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-### você entrar em contato comigo 
+### vou sentar na sua pica
 
 igor.alvarenga@escola.pr.gov.br
 
